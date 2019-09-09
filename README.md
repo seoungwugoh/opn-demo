@@ -1,7 +1,7 @@
 # Onion-Peel Networks for Deep Video Completion
 ### Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim
 ### ICCV 2019
-[paper](https://arxiv.org/abs/1908.08718)
+[[paper]](https://arxiv.org/abs/1908.08718)
 
 
 ### - This repository contains a demo software for OPN with following applications
