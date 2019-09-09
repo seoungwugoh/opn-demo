@@ -10,6 +10,7 @@
  1) Reference guided image completion (group photo inpainting)
  2) Video completion
 
+
 ### - Requirements
 - python 3.6
 - pytorch 0.4.0
@@ -74,6 +75,11 @@ ICCV 2019
 ```
 [[paper]](https://arxiv.org/abs/1908.11587)
 [[github]](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)
+
+
+### - Datasets
+This repository partially contains frames sampled from [Youtube-VOS](https://youtube-vos.org/) videos for the group photo application, and [DAVIS](https://davischallenge.org/) videos and masks from [Huang et al.](https://filebox.ece.vt.edu/~jbhuang/project/vidcomp/index.html) for the video inpainting. 
+
 
 ### - Terms of Use
 This software is for non-commercial use only.
