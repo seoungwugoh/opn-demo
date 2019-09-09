@@ -4,7 +4,7 @@
 [paper](https://arxiv.org/abs/1908.08718)
 
 
-### This repository contains a demo software for OPN
+### * This repository contains a demo software for OPN
 1) Reference guided image completion (group photo inpainting)
 2) Video completion
 
