@@ -69,9 +69,9 @@ Please check out our another approach for video inpaining!
 Copy-and-Paste Networks for Deep Video Inpainting
 Sungho Lee, Seoung Wug Oh, DaeYeun Won,  Seon Joo Kim
 ICCV 2019
-[paper](https://arxiv.org/abs/1908.11587)
-[github](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)
 ```
+[[paper]](https://arxiv.org/abs/1908.11587)
+[[github]](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)
 
 ### - Terms of Use
 This software is for non-commercial use only.
