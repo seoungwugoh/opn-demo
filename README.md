@@ -31,8 +31,8 @@ conda install torchvision
 #### Download weights
 ##### Place it the same folder with demo scripts
 ```
-wget -O I_e290.pth "https://www.dropbox.com/s/khx9hmtnqbzg634/I_e290.pth?dl=1"
-wget -O P_e290.pth "https://www.dropbox.com/s/89heglbglig0g04/P_e290.pth?dl=1"
+wget -O OPN.pth "https://www.dropbox.com/s/sxo25p12sfc7na7/OPN.pth?dl=1"
+wget -O TCN.pth "https://www.dropbox.com/s/nihciqj551xv7a8/TCN.pth?dl=1"
 ```
 
 #### Run
