@@ -43,7 +43,7 @@ python demo_video.py --input parkour
 ```
 
 ##### Test your own images/videos
-Locate images/videos in ```Image_inputs/[name]``` or ```Video_inputs/[name]```.
+Prepare your images/videos in ```Image_inputs/[name]``` or ```Video_inputs/[name]```, in the same format and naming rule with the provided examples. 
 
 then, run 
 ``` 
@@ -72,8 +72,6 @@ ICCV 2019
 [paper](https://arxiv.org/abs/1908.11587)
 [github](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)
 ```
-
-
 
 ### Terms of Use
 This software is for non-commercial use only.
