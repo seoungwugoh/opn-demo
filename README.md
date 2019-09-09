@@ -4,7 +4,7 @@
 [paper](https://arxiv.org/abs/1908.08718)
 
 
-### * This repository contains a demo software for OPN
+### - This repository contains a demo software for OPN with following applications
 1) Reference guided image completion (group photo inpainting)
 2) Video completion
 
@@ -13,7 +13,7 @@
 - pytorch 0.4.0
 - opencv, pillow
 
-### How to Use
+### - How to Use
 ##### Environment setup
 ```
 conda create --name opn python=3.6
@@ -32,7 +32,7 @@ wget -O I_e290.pth "https://www.dropbox.com/s/khx9hmtnqbzg634/I_e290.pth?dl=1"
 wget -O P_e290.pth "https://www.dropbox.com/s/89heglbglig0g04/P_e290.pth?dl=1"
 ```
 
-##### Run!
+##### Run
 ###### 1) Group photo inpainting
 ``` 
 python demo_group_image.py --input 3e91f10205_2
@@ -45,7 +45,7 @@ python demo_video.py --input parkour
 ##### Test your own images/videos
 Locate images/videos in ```Image_inputs/[name]``` or ```Video_inputs/[name]```.
 
-Run 
+then, run 
 ``` 
 python demo_group_image.py --input [name]
 ```
@@ -69,9 +69,10 @@ Please check out our another approach for video inpaining!
 Copy-and-Paste Networks for Deep Video Inpainting
 Sungho Lee, Seoung Wug Oh, DaeYeun Won,  Seon Joo Kim
 ICCV 2019
-```
 [paper](https://arxiv.org/abs/1908.11587)
 [github](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)
+```
+
 
 
 ### Terms of Use
