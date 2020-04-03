@@ -1,7 +1,7 @@
 # Onion-Peel Networks for Deep Video Completion
 ### Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim
 ### ICCV 2019
-[[paper]](https://arxiv.org/abs/1908.08718)
+[[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Oh_Onion-Peel_Networks_for_Deep_Video_Completion_ICCV_2019_paper.html)
 
 [![Onion-Peel Networks for Deep Video Completion](https://img.youtube.com/vi/bxerAkHAttE/0.jpg)](https://www.youtube.com/watch?v=bxerAkHAttE "Onion-Peel Networks for Deep Video Completion")
 
